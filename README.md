@@ -15,5 +15,6 @@ Application is divided into two parts
 0. Run all dependencies mentioned in requirements.txt
 1. Place pdf file in the docs folder.
 2. Run command python src/main.py
+3. Open browser and hit the URL http://127.0.0.1:7860 if you are running it locally.
 
 

@@ -18,4 +18,4 @@ gr.ChatInterface(
     undo_btn="Delete Previous",
     clear_btn="Clear",
     
-).launch()
+).launch(share=True)
